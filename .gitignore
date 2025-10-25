@@ -1,0 +1,60 @@
+# =====================
+# Python cache & build files
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.log
+
+# =====================
+# Virtual environment
+# =====================
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# =====================
+# PyInstaller build folders
+# =====================
+build/
+dist/
+*.spec
+
+# =====================
+# IDE / Editor files
+# =====================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =====================
+# OS generated files
+# =====================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =====================
+# SQLite / DB files (optional)
+# =====================
+*.db
+*.sqlite3
+
+# =====================
+# Config or secret files
+# =====================
+config.json
+.env
+*.ini
+
+# =====================
+# Backup or temp files
+# =====================
+*.bak
+*.tmp
+*.old
